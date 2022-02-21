@@ -8,8 +8,6 @@ This is a web based application developed for a restaurant named PARADISE.
 **Project Link** - https://paradise-restaurant.azurewebsites.net
 
 
-**Demo Video** -  https://www.youtube.com/watch?v=_pKWyCiRrcg&t=2s
-
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
