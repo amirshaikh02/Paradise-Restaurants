@@ -35,7 +35,7 @@
     background-color: #D1C4E9;}
 
 .footer{
-    background-color: rgba(56, 1, 19, 0.747);
+    background-color: rgba(247, 57, 10, 0.973);
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -125,7 +125,7 @@ body{
     /*background: linear-gradient(0.18turn,rgb(112, 3, 3),rgb(134, 1, 1),rgb(170, 2, 2),rgb(211, 3, 3),rgb(211, 3, 3),rgb(211, 3, 3)rgb(211, 3, 3),rgb(143, 2, 2),rgb(161, 3, 3),rgb(80, 3, 3));*/
 
     /*background-color: rgb(141, 35, 35);*/
-    background: linear-gradient(0.18turn,rgb(124, 3, 3),rgb(161, 3, 3),rgb(189, 3, 3),rgb(211, 3, 3),rgb(211, 3, 3),rgb(211, 3, 3),rgb(161, 3, 3),rgb(133, 3, 3),rgb(80, 3, 3));
+    background: linear-gradient(0.18turn,rgb(16, 80, 3),#128a07,rgb(6, 134, 23),rgb(6, 134, 23),rgb(6, 134, 23),rgb(6, 134, 23),rgb(6, 134, 23),rgb(6, 134, 23),rgb(16, 80, 3));
 
 }
 .navbar a:hover{
